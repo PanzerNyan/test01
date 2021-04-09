@@ -1,0 +1,12 @@
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\Visual_Studio_Projects\Information_systems_02\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
